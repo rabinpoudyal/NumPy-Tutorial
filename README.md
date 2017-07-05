@@ -21,3 +21,9 @@ You can find the video tutorials in [MyChannel](https://www.youtube.com/channel/
 
 - Slicing 1D, 2D and 3D arrays
 - Boolean Mask arrays
+
+## Part 3
+
+- Broadcasting 
+- Structured Arrays
+- Record Arrays
